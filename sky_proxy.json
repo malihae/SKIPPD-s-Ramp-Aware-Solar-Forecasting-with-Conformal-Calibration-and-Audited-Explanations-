@@ -1,9 +1,0 @@
-{
-  "clear_max": 0.2,
-  "method": "fit-only pooled Otsu normalized red-blue proxy",
-  "overcast_min": 0.8,
-  "radius": 0.42,
-  "threshold": -0.109375,
-  "train_images_sha": "b7c5b53c4612e54f9ff405d4cc06ff33df29acb832aff94a3775f7f51b1cde03",
-  "validated": false
-}
