@@ -1,0 +1,11 @@
+                    method  n_target  coverage_mean  coverage_std  coverage_high_noise_mean  width_mean  width_std  n_seeds
+         A in-distribution         0          0.900         0.023                     0.899       0.222      0.024       30
+      B affine + conformal        20          0.910         0.105                     0.878       0.936      0.253       30
+      B affine + conformal        40          0.923         0.044                     0.882       0.857      0.137       30
+      B affine + conformal        80          0.893         0.050                     0.843       0.758      0.106       30
+      B affine + conformal       160          0.902         0.032                     0.853       0.759      0.077       30
+B naive (reuse A quantile)         0          0.213         0.029                     0.201       0.222      0.024       30
+            B recalibrated        20          0.911         0.055                     0.875       1.187      0.193       30
+            B recalibrated        40          0.898         0.040                     0.858       1.117      0.117       30
+            B recalibrated        80          0.901         0.037                     0.861       1.119      0.092       30
+            B recalibrated       160          0.900         0.025                     0.858       1.111      0.078       30
