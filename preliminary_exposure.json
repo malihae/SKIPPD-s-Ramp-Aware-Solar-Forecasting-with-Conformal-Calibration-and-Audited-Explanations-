@@ -1,0 +1,6 @@
+{
+  "N": 2048,
+  "rule": "timestamps used only to quarantine overlapping designated-test windows",
+  "status": "known_previous_test_exposure",
+  "time_ns_sha256": "1d777f495d428bc3678d4b466067123546d29e7b2e9755fded10c7cf01be5597"
+}

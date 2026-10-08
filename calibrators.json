@@ -1,0 +1,47 @@
+{
+  "cnn_gru": {
+    "block_count": 1114,
+    "block_fallback": false,
+    "blocked": 0.20766830444335938,
+    "group_counts": {
+      "0": 25214,
+      "1": 14326
+    },
+    "group_q": {
+      "0": 0.0,
+      "1": 0.0
+    },
+    "ordinary": 0.0,
+    "width_threshold": 2.4103527069091797
+  },
+  "convlstm": {
+    "block_count": 1114,
+    "block_fallback": false,
+    "blocked": 0.3599700927734375,
+    "group_counts": {
+      "0": 27338,
+      "1": 12202
+    },
+    "group_q": {
+      "0": 0.0,
+      "1": 0.0
+    },
+    "ordinary": 0.0,
+    "width_threshold": 3.3105592727661133
+  },
+  "vit_lstm": {
+    "block_count": 1114,
+    "block_fallback": false,
+    "blocked": 0.2516345977783203,
+    "group_counts": {
+      "0": 28541,
+      "1": 10999
+    },
+    "group_q": {
+      "0": 0.0,
+      "1": 0.0
+    },
+    "ordinary": 0.0,
+    "width_threshold": 3.105945587158203
+  }
+}
